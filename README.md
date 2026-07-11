@@ -21,7 +21,8 @@ bai3 : xếp loại học lực sử dụng if else , switch case,switch express
 bai4 : bảng cửu chương
 bai4_1:check số nguyên tố
 bai5:list sinh viên đơn giản
-\-bai 6,7(dang update)
+bai6:list sinh viên phức tạp hơn
+bai7:mini project (sử dụng các hàm trung gian để tái sử dụng lại logic nhập điểm cho từng loại điểm ..)
 
 \## Công nghệ
 
