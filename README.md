@@ -15,8 +15,8 @@ Bài tập nhằm luyện: kiểu dữ liệu, câu điều kiện, vòng lặp,
 \## Các bài đã hoàn thành
 
 \- \*\*Bai1 - Bai5\*\*: Console cơ bản, tính điểm, điều kiện, vòng lặp, quản lý danh sách sinh viên (List)
-bai1 : nhap tên tuổi in ra thông tin kèm năm sinh
-bài2 : tính điểm trung bình
+**bai1** : nhap tên tuổi in ra thông tin kèm năm sinh
+**bài2** : tính điểm trung bình
 bai3 : xếp loại học lực sử dụng if else , switch case,switch expression
 bai4 : bảng cửu chương
 bai4_1:check số nguyên tố
